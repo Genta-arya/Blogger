@@ -10,4 +10,4 @@ export const getBerita = () => {
       throw err;
     });
 };
-const api = "https://newsapi.org/v2/everything?q=tesla&from=2023-04-21&sortBy=publishedAt&apiKey=3c3fec3ba03344b4990ba080b3a0e99b";
+const api = "https://newsapi.org/v2/everything?q=bitcoin&apiKey=3c3fec3ba03344b4990ba080b3a0e99b";
